@@ -1,3 +1,7 @@
+/*
+	inorder traversal of tree;
+*/
+
 #include<bits/stdc++.h>
 #define fast  ios::sync_with_stdio(false); cin.tie(0); cout.tie(0)
 typedef long long int ll;
