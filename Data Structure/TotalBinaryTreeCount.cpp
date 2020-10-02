@@ -1,5 +1,9 @@
 /*
 	total numbers of Binary tree from the given total node used for the binary tree;
+
+	preorder + inorder = UNIQUE Binary Tree;
+	postorder + inorder = UNIQUE Binary Tree;
+	preorder + postorder = NOT UNIQUE Binary Tree;
 */
 
 #include<bits/stdc++.h>
